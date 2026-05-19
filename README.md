@@ -7,6 +7,7 @@ prime-Implicants, Essential Implicants, Uncovered Minterms, Column Domination an
 note: dontcares is optional, can be omitted
 
 ## Build guide for webAssembly
+
 Prerequisite: emcmake and cmake must be installed and configured beforeHand.
 - step1 : Download the zip or clone the repository.
 - step2 : Open terminal in the root of the project.
@@ -20,6 +21,7 @@ Prerequisite: emcmake and cmake must be installed and configured beforeHand.
 <img width="1193" height="632" alt="image" src="https://github.com/user-attachments/assets/283fca5e-61f6-441a-a5a1-4c5fc511ea19" />
 
 ##Build guide for CLI
+
 Prerequisite: cmake must be installed and configured beforeHand.
 - step1 : Download the zip or clone the repository.
 - step2 : Open terminal in the root of the project.

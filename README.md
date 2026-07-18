@@ -17,7 +17,7 @@ Prerequisite: emcmake and cmake must be installed and configured beforeHand.
           The terminal will show progress of compilations.
 - After Completing above steps, two files will be created inside the root of the project. - "quine.js" and "quine.wasm" .
 
-<img width="1447" height="237" alt="image" src="https://github.com/user-attachments/assets/a572553d-424a-4f0d-a807-98007be8a473" />
+<img width="1447" height="237" alt="13f4feb0-f0a0-481e-bcc7-c8d0a769f670" src="https://github.com/user-attachments/assets/930d07de-ef83-4367-b74e-868a76125702" />
 <img width="1193" height="632" alt="image" src="https://github.com/user-attachments/assets/283fca5e-61f6-441a-a5a1-4c5fc511ea19" />
 
 ##Build guide for CLI
